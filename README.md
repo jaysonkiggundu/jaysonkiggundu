@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayson Kiggundu</h1>
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/jaysonkiggundu
 <p align="left">
 </p>
 
