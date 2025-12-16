@@ -6,7 +6,7 @@ https://www.linkedin.com/in/jaysonkiggundu/
 <p align="left">
 </p>
 
-Jayson Kiggundu is driven with a passion for Cloud Computing, Cybersecurity and Gaming. He has experience at Amazon Web Services (AWS) & Federal Agencies. He is committed to building secure, scalable systems that make an impact!
+Jayson Kiggundu is driven with a passion for Cloud Computing and Cybersecurity. He has experience at Amazon Web Services (AWS) & Federal Agencies. He is committed to building secure, scalable systems that make an impact!
 
 Growing up in Prince George’s County Maryland. Jayson currently attends Howard University and is pursuing his Bachelor’s of Science in Computer Science.
 
